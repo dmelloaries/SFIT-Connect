@@ -22,22 +22,7 @@ function pop() {
   }
 }
 
-// const popupMessagesButtons = document.querySelectorAll('popup-btn-messages')
 
-// popupMessagesButtons.forEach(button, () => {
-//     button.addEventListener('click', () => {
-//         document.getElementById('popup-box-messages').style.display = 'none';
-//     })
-// })
-
-// const popupMessagesButtom = document.getElementById('popup-btn-messages')
-// popupMessagesButtom.addEventListener('click', () => {
-//     document.getElementById('popup-box-messages').style.display = 'none';
-// })
-// ##################################
-
-// Example starter JavaScript for disabling form submissions if there are invalid fields
-// Fetch all the forms we want to apply custom Bootstrap validation styles to
 var forms = document.getElementsByClassName("needs-validation");
 
 // Loop over them and prevent submission
